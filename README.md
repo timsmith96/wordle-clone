@@ -1,4 +1,3 @@
-
 # Wordle clone
 
 A Wordle clone project, making use of:
@@ -16,5 +15,4 @@ A Wordle clone project, making use of:
 
 ## Demo
 
-https://charming-custard-50007f.netlify.app/
-
+https://timsmith96.github.io/wordle-clone/
